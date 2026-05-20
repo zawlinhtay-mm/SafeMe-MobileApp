@@ -16,7 +16,7 @@ SafeMe is built to provide fast emergency communication and safety tools when th
 https://safemeapp.pages.dev/
 
 📥 **Download on Google Play Store**  
-[_Add your Play Store link here_](https://play.google.com/store/apps/details?id=com.zawlin.safeme)
+[_Playstore_](https://play.google.com/store/apps/details?id=com.zawlin.safeme)
 
 ---
 
