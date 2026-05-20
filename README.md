@@ -103,7 +103,7 @@ Add your app screenshots here.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/safeme-app.git
+git clone [https://github.com/your-username/safeme-app.git](https://github.com/zawlinhtay-mm/SafeMe-MobileApp.git)
 ```
 
 Open the project using Android Studio and run it on an emulator or Android device.
