@@ -16,7 +16,7 @@ SafeMe is built to provide fast emergency communication and safety tools when th
 https://safemeapp.pages.dev/
 
 📥 **Download on Google Play Store**  
-[_Add your Play Store link here_](https://play.google.com/store/apps/details?id=com.zawlin.safeme)
+[_Playstore_](https://play.google.com/store/apps/details?id=com.zawlin.safeme)
 
 ---
 
@@ -88,37 +88,45 @@ SafeMe respects user privacy. Location sharing and emergency alerts are only tri
 
 # Screenshots
 
-Add your app screenshots here.
-
-```markdown
-![Home Screen](screenshots/home.png)
-![SOS Screen](screenshots/sos.png)
-![Emergency Contacts](screenshots/contacts.png)
-```
+<p align="center">
+  <img src="screenshots/home.png" />  
+</p>
+<p align="center">
+ 
+  <img src="screenshots/custommessage.jpg"/> 
+</p>
+<p align="center">
+ 
+  <img src="screenshots/share.png" />
+ 
+</p>
+<p align="center">
+  
+  <img src="screenshots/sms.png" />
+ 
+</p>
+<p align="center">
+ 
+  <img src="screenshots/facebook.png" />
+ 
+</p>
+<p align="center">
+  
+  <img src="screenshots/x.png" />
+</p>
 
 ---
 
-# Installation
+# 📦 Source Code
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/safeme-app.git
-```
-
-Open the project using Android Studio and run it on an emulator or Android device.
+If you need or want access to the source code, feel free to contact me — I’ll be happy to share it.
 
 ---
 
-# 🤝 Contributing
+# 🤝 Contact
 
-Contributions are welcome.
+For questions, collaborations, or source code access, please contact me through GitHub or the website above.
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
