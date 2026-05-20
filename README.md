@@ -88,39 +88,37 @@ SafeMe respects user privacy. Location sharing and emergency alerts are only tri
 
 # Screenshots
 
+<p align="center">
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/custommessage.jpg" width="250"/>
+  <img src="screenshots/share.png" width="250"/>
+  <img src="screenshots/sms.png" width="250"/>
+  <img src="screenshots/facebook.png" width="250"/>
+  <img src="screenshots/x.png" width="250"/>
+</p>
+
 
 ```markdown
 ![Home Screen](screenshots/home.jpg)
-![SOS Screen](screenshots/custommessage.jpg)
-![Emergency Contacts](screenshots/share.png)
-![Emergency Contacts](screenshots/sms.png)
-![Emergency Contacts](screenshots/facebook.png)
-![Emergency Contacts](screenshots/x.png)
+![Customise Message](screenshots/custommessage.jpg)
+![Share Location](screenshots/share.png)
+![SMS Message](screenshots/sms.png)
+![Share viaFacebook](screenshots/facebook.png)
+![Share via X](screenshots/x.png)
 ```
 
 ---
 
-# Installation
+# 📦 Source Code
 
-Clone the repository:
-
-```bash
-git clone [https://github.com/your-username/safeme-app.git](https://github.com/zawlinhtay-mm/SafeMe-MobileApp.git)
-```
-
-Open the project using Android Studio and run it on an emulator or Android device.
+If you need or want access to the source code, feel free to contact me — I’ll be happy to share it.
 
 ---
 
-# 🤝 Contributing
+# 🤝 Contact
 
-Contributions are welcome.
+For questions, collaborations, or source code access, please contact me through GitHub or the website above.
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
