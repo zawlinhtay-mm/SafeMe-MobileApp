@@ -88,12 +88,14 @@ SafeMe respects user privacy. Location sharing and emergency alerts are only tri
 
 # Screenshots
 
-Add your app screenshots here.
 
 ```markdown
-![Home Screen](screenshots/home.png)
-![SOS Screen](screenshots/sos.png)
-![Emergency Contacts](screenshots/contacts.png)
+![Home Screen](screenshots/home.jpg)
+![SOS Screen](screenshots/custommessage.jpg)
+![Emergency Contacts](screenshots/share.png)
+![Emergency Contacts](screenshots/sms.png)
+![Emergency Contacts](screenshots/facebook.png)
+![Emergency Contacts](screenshots/x.png)
 ```
 
 ---
