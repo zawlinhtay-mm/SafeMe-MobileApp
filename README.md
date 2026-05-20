@@ -89,23 +89,31 @@ SafeMe respects user privacy. Location sharing and emergency alerts are only tri
 # Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250"/>
-  <img src="screenshots/custommessage.jpg" width="250"/>
-  <img src="screenshots/share.png" width="250"/>
-  <img src="screenshots/sms.png" width="250"/>
-  <img src="screenshots/facebook.png" width="250"/>
-  <img src="screenshots/x.png" width="250"/>
+  <img src="screenshots/home.png" />  
 </p>
-
-
-```markdown
-![Home Screen](screenshots/home.jpg)
-![Customise Message](screenshots/custommessage.jpg)
-![Share Location](screenshots/share.png)
-![SMS Message](screenshots/sms.png)
-![Share viaFacebook](screenshots/facebook.png)
-![Share via X](screenshots/x.png)
-```
+<p align="center">
+ 
+  <img src="screenshots/custommessage.jpg"/> 
+</p>
+<p align="center">
+ 
+  <img src="screenshots/share.png" />
+ 
+</p>
+<p align="center">
+  
+  <img src="screenshots/sms.png" />
+ 
+</p>
+<p align="center">
+ 
+  <img src="screenshots/facebook.png" />
+ 
+</p>
+<p align="center">
+  
+  <img src="screenshots/x.png" />
+</p>
 
 ---
 
