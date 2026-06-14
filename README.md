@@ -60,16 +60,6 @@ SafeMe is designed for everyone, including:
 
 ---
 
-# Why Choose SafeMe?
-
-✅ Simple and easy to use  
-✅ Fast emergency response tools  
-✅ Real-time location sharing  
-✅ Lightweight and reliable  
-✅ No ads  
-✅ Designed for real-life emergencies
-
----
 
 # Privacy & Security
 
